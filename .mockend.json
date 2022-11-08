@@ -1,12 +1,10 @@
 
 {
-"users": [
-  {
+"users": {
   "firstName": "kidus",
     "lastName": "Guade",
    "age": "3",
     "gender": "M",
     "height": "1.73"
   }
-]
 }
